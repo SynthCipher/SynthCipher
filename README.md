@@ -15,7 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SynthCipher&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/SynthCipher/SynthCipher/output/snake.svg" alt="Snake animation" />
 
 ###
 
