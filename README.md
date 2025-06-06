@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Building things that solve real problems.<br>🚀 Always learning, always shipping.
+<br>🚀 Always learning, always shipping.
 
 
 ## 🌐 Socials:
